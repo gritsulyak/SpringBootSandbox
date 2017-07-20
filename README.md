@@ -17,3 +17,8 @@
 * <http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api>
 * <http://heidloff.net/article/usage-of-swagger-2-0-in-spring-boot-applications-to-document-apis/>
 * <http://fizzylogic.nl/2015/07/29/quickly-generate-api-docs-for-your-spring-boot-application-using-springfox/>
+
+Swagger bugs:
+https://stackoverflow.com/questions/30334873/swagger-ui-not-displaying-any-content-on-index-html-page
+https://github.com/swagger-api/swagger-ui/issues/341
+
