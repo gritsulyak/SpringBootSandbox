@@ -22,3 +22,5 @@ Swagger bugs:
 https://stackoverflow.com/questions/30334873/swagger-ui-not-displaying-any-content-on-index-html-page
 https://github.com/swagger-api/swagger-ui/issues/341
 
+# инициализация
+https://habrahabr.ru/post/222579/
